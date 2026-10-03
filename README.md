@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student<br>👯 I’m looking to collaborate on Real World Projects<br>🤝 I’m looking for help with Projects<br>🌱 I’m currently learning DSA<br>💬 
+🔭 I’m currently a student<br>👯 I’m looking to collaborate on Real World Projects<br>🤝 I’m looking for help with Projects<br>🌱 I’m currently learning DSA<br> 
 
 
 # 💻 Tech Stack:
